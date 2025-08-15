@@ -31,3 +31,8 @@ The data was meticulously compiled to ensure variety across brands, body types, 
 - **Pricing Studies**
 
 ---
+
+## 📎 Dataset Link
+
+You can access the dataset on Kaggle here:  
+[Fuel Consumption & CO2 Labeled Car Images Dataset](https://www.kaggle.com/datasets/mehmetalibilici/fuelconsumption-co2-labeled-car-images-dataset)
